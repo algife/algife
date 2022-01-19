@@ -4,7 +4,7 @@ Send me a message through [My LinkedIn](https://linkedin.com/in/algife/) for **F
 
 👋 Hi, I am a Alexandre, a
 
-# Senior FULL-STACK DEVELOPER for Web and Mobile with 9+ years of experience specialized in:
+## Senior FULL-STACK DEVELOPER for Web and Mobile with 9+ years of experience specialized in:
   - **ANGULAR** (from v2 to the latest)
   - TypeScript and JavaScript
   - NodeJS and Express.js
@@ -17,7 +17,11 @@ Send me a message through [My LinkedIn](https://linkedin.com/in/algife/) for **F
   I have an interesting mix of international experience in the corporate world and a background as a start-up founder. 
   A **rare-to-find profile that mixes programming with knowledge about Product Design, User Experience (UX), Business and Marketing.**
   
-# 👀 I am interested in
+## 👀 I am interested in
 - joining a company as B2B / C2C Contractor and work on a fully remote basis through my own Limited Liability Company (I am based in Europe).
 - creating online businesses and international digital companies / start-ups or helping them to build their innovative products or MVP (Minimum Viable Products).
 - financial trading & passive income generation: e-commerce, ...
+
+
+## Disclaimer about my Github Activity
+- A good developers is not mesured by his Github activity or open-source contributions IMO. I am not active here nor in the open-source community, so you will not see open-source contributions or demo projects in my Github, I keep them private and just use it for forks to share with peers.
